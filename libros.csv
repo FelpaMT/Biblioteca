@@ -1,0 +1,38 @@
+Nombre,Id,Estado,Genero,Prestamo,ClasificaciónEdad,FechaPrestamo,Cliente
+La Odisea,1,Bueno,Epopeya,SI,18-99,23/01/2025,juanperez10@outlook.com
+Don Quijote de la Mancha,1,Bueno,Novela,SI,18-99,10/01/2025,mariagomez@gmail.com
+Don Quijote de la Mancha,2,Malo,Novela,SI,18-99,14/01/2025,chernandez@yahoo.com
+Don Quijote de la Mancha,3,Regular,Novela,NO,18-99,NA,NA
+El Principito,1,Bueno,Fabula,SI,0-12,15/01/2025,luismartinez09@outlook.com
+El Principito,2,Bueno,Fabula,NO,0-12,NA,NA
+El Alquimista,1,Regular,Aventura,SI,18-99,9/01/2025,pedrog@gmail.com
+Harry Potter y la piedra filosofal,1,Regular,Fantasia,SI,14-16,8/01/2025,dyegoplieg@hotmail.com
+Cien anos de soledad,1,Regular,Realismo Magico,SI,18-99,11/01/2025,diegosanchez@hotmail.com
+Cien anos de soledad,2,Regular,Realismo Magico,NO,18-99,NA,NA
+Cien anos de soledad,3,Regular,Realismo Magico,NO,18-99,NA,NA
+Cien anos de soledad,4,Bueno,Realismo Magico,NO,18-99,NA,NA
+El codigo Da Vinci,1,Malo,Misterio,SI,18-99,16/01/2025,fernandoramos77@gmail.com
+El codigo Da Vinci,2,Regular,Misterio,NO,18-99,NA,NA
+El senor de los anillos,1,Regular,Fantasia,NO,18-99,NA,NA
+El senor de los anillos,2,Bueno,Fantasia,NO,18-99,NA,NA
+El senor de los anillos,3,Bueno,Fantasia,SI,18-99,22/01/2025,joserivera5@outlook.com
+El diario de Ana Frank,1,Bueno,Biografia,NO,14-16,NA,NA
+La sombra del viento,1,Malo,Misterio,SI,18-99,19/01/2025,ffranciscoperez@outlook.com
+La sombra del viento,2,Bueno,Misterio,SI,18-99,20/01/2025,paulavargas@gmail.com
+Historia de dos ciudades,1,Regular,Novela Historica,NO,18-99,NA,NA
+El hombre en busca de sentido,1,Regular,Autobiografia,SI,18-99,17/01/2025,luciaromero19@outlook.com
+El hombre en busca de sentido,2,Malo,Autobiografia,NO,18-99,NA,NA
+El hombre en busca de sentido,3,Bueno,Autobiografia,SI,18-99,12/01/2025,isabelmolina@outlook.com
+El hombre en busca de sentido,4,Bueno,Autobiografia,NO,18-99,NA,NA
+La biblia,1,Regular,Religion,SI,18-99,13/01/2025,martinasilva17@gmail.com
+El gran Gatsby,1,Bueno,Novela,SI,18-99,10/01/2025,ricardoreyes@yahoo.com
+El gran Gatsby,2,Bueno,Novela,SI,18-99,13/01/2025,mramirez@hotmail.com
+Matar a un ruisenor,1,Bueno,Drama,SI,18-99,24/01/2025,eduarro998@gmail.com
+El viejo y el mar,1,Regular,Ficcion,SI,18-99,18/01/2025,cbustos@gmail.com
+El guardian entre el centeno,1,Bueno,Novela,NO,18-99,NA,NA
+La metamorfosis,1,Bueno,Ficcion,NO,18-99,NA,NA
+La metamorfosis,2,Regular,Ficcion,NO,18-99,NA,NA
+La metamorfosis,3,Regular,Ficcion,SI,18-99,15/01/2025,niagarafalls76@gmail.com
+La metamorfosis,4,Malo,Ficcion,NO,18-99,NA,NA
+El hobbit,1,Bueno,Fantasia,NO,14-16,NA,NA
+El nombre de la rosa,1,Bueno,Misterio,SI,18-99,12/01/2025,analopez@gmail.com
